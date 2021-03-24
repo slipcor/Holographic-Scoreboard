@@ -2,6 +2,7 @@ name: HolographicScoreboard
 main: dk.lockfuglsang.wolfencraft.HolographicScoreboard
 author: R4zorax
 version: ${project.version}
+api-version: 1.13
 softdepend: [HolographicDisplays, ProtocolLib, Holograms]
 load: POSTWORLD
 commands:
